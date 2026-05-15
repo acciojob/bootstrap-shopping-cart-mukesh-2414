@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.summary {
+      background-color: #f7fbff;
+      border-top: 4px solid #5ea4f3;
+      padding: 20px;
+      border-bottom: 1px solid #ddd;
+    }
+    .summary button {
+      background-color: #3b99e0;
+      border: none;
+      width: 100%;
+      padding: 10px;
+      color: white;
+      font-weight: bold;
+    }
+    .summary button:hover {
+      background-color: #2a75c4;
+    }
+    .product {
+      margin-bottom: 30px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #ccc;
+    }
